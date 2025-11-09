@@ -39,8 +39,15 @@ es un conjunto de instrucciones lógicas escritas en un lenguaje de programació
 Un **comentario** es texto en el código que las personas leen pero que la computadora ignora. En Python se usa `#` para comentar una línea.
 
 ## Ejemplo de código en Python
-```python
-# Este es un ejemplo simple en Python
-x = 42
-mensaje = f"El valor de x es {x}"
-print(mensaje)
+# Programa que pide al usuario su nombre y edad, y calcula su edad en el futuro
+
+# Pedimos datos al usuario
+nombre = input("¿Cómo te llamas? ")
+edad = int(input("¿Cuántos años tienes? "))
+
+# Calculamos edad en 10 años
+edad_futura = edad + 10
+
+# Mostramos el resultado
+print(f"Hola {nombre}, en 10 años tendrás {edad_futura} años.")
+
