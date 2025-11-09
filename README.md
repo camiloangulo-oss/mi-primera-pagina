@@ -4,7 +4,9 @@ les hablare sobre temas de programacion
 
 # lenguajes-de-programacion
 COMPILADOS: las instrucciones son traducidas en grupo por una aplicación (compilador). Ejemplos: Fortran, C/C++.
+
 INTERPRETADOS: las instrucciones son traducidas una a una por una aplicación (intérprete). Ejemplos: Python, Perl, Bash.
+
 INTERMEDIOS: en parte compilados, en parte interpretados. Ejemplos: Java, Scala.
 
 "Alto nivel: la información compleja es representada con objetos simples. Ejemplos: Python, C++, C#, Java.
