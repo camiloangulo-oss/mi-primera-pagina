@@ -23,3 +23,16 @@ Los procesos, de una manera muy general, conforman las acciones que se encargan 
 # Salidas
 Las salidas son las diferentes formas en que se presentan los resultados del procesamiento de los datos que entraron al modelo (recordemos que un algoritmo es un modelo). Es decir, corresponden a la solución del problema. Cuando las salidas no logran el objetivo de dar solución al problema, se puede concluir que el algoritmo estuvo mal diseñado o que se presentaron fallos en alguna parte del proceso. En la salida se encuentra los usuarios quienes son los que reciben el producto ya listo.
 
+# ¿Que es una variable?
+es un espacio en la memoria de una computadora que se usa para almacenar un valor que puede cambiar durante la ejecución de un programa.
+
+# ¿Que es un programa?
+es un conjunto de instrucciones lógicas escritas en un lenguaje de programación para que una computadora ejecute tareas específicas.
+
+### ejemplos rapidos
+- `x = 5` → asignamos el número 5 a la variable `x`.
+- `nombre = "Ana"` → la variable `nombre` guarda el texto "Ana".
+
+## ¿Qué es un comentario?
+Un **comentario** es texto en el código que las personas leen pero que la computadora ignora. En Python se usa `#` para comentar una línea.
+
