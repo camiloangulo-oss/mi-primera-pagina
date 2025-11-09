@@ -48,6 +48,8 @@ Espero seguir aprendiendo de este mundo digital y asi mismo de la asignatura.
 x = 42
 mensaje = f"El valor de x es {x}"
 print(mensaje)
+```
+
 
 
 
