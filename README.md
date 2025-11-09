@@ -52,6 +52,6 @@ print(mensaje)
 
 
 ### Referencias de la IA
-ChatGPT: Conversacion sobre que es un programa, que es una variable y como es el uso de Markdown (conversacion_chatgpt.md)
+ChatGPT: Conversacion sobre que es un programa, que es una variable y como es el uso de Markdown (https://chatgpt.com/c/690ff0ca-f3d0-8325-ba38-07dafb12867b)
 
 
