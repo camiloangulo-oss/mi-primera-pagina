@@ -31,7 +31,7 @@ main()
 
 
 
-###Explicacion
+### Explicación
 Este programa pide al usuario cuántos pasos debe avanzar la “tortuga”.
 La función adelante() imprime flechas hacia la derecha (→), simulando movimiento horizontal.
 La función abajo() imprime flechas hacia abajo (↓), simulando movimiento vertical.
@@ -58,7 +58,7 @@ main()
 ```
 
 
-###Explicacion
+### Explicación
 La función bajar() imprime flechas hacia abajo (↓), una por línea, simulando que la tortuga desciende.
 El usuario elige cuántos pasos baja la tortuga, y el programa muestra el recorrido vertical en texto.
 
@@ -94,7 +94,7 @@ def main():
 main()
 ```
 
-###Explicacion
+### Explicación
 Primero la tortuga avanza hacia la derecha (→).
 Luego se indica el giro con un mensaje: “Giro de 90° a la derecha”.
 Finalmente, la tortuga avanza hacia abajo (↓).
@@ -110,7 +110,7 @@ Reescribe los retos usando funciones que representen los movimientos de la tortu
 
 Si se ejecuta:
 
-###Explicacion
+### Explicación
 Las funciones adelante() y abajo() encapsulan los movimientos de la tortuga. 
 La primera imprime flechas hacia la derecha (→) en una misma línea, y la segunda imprime flechas hacia abajo (↓) una por línea. 
 Al combinar ambas se obtiene un dibujo en forma de “L”, tal como ocurre en la versión gráfica de turtle.
@@ -122,7 +122,6 @@ Ajusta tus funciones para que la tortuga pueda bajar escalones.
 Cada escalón debe conservar la posición horizontal acumulada y dibujar correctamente tanto el tramo horizontal como el vertical.
 
 ```python
-# Reto 5: Tortuga bajando escaleras
 posicion_actual = 0
 
 def adelante(n):
@@ -147,6 +146,6 @@ adelante(5)
 abajo(2)
 ```
 
-### Explicacion
+### Explicación
 El programa utiliza una variable llamada posicion_actual para recordar cuánto ha avanzado horizontalmente la tortuga.
 Esto permite que, al bajar, las líneas verticales aparezcan correctamente alineadas, formando escalones.
