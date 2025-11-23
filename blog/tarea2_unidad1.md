@@ -26,7 +26,8 @@ def main():
     abajo(pasos_abajo)
 
 main()
-´´´
+
+```
 
 
 
@@ -54,7 +55,7 @@ def main():
     bajar(pasos)
 
 main()
-´´´
+```
 
 
 ###Explicacion
@@ -91,6 +92,7 @@ def main():
     abajo(pasos_abajo)
 
 main()
+```
 
 ###Explicacion
 Primero la tortuga avanza hacia la derecha (→).
@@ -143,7 +145,8 @@ abajo(2)
 
 adelante(5)
 abajo(2)
+```
 
-###Explicacion
+### Explicacion
 El programa utiliza una variable llamada posicion_actual para recordar cuánto ha avanzado horizontalmente la tortuga.
 Esto permite que, al bajar, las líneas verticales aparezcan correctamente alineadas, formando escalones.
