@@ -55,3 +55,15 @@ print(mensaje)
 ChatGPT: Conversacion sobre que es un programa, que es una variable y como es el uso de Markdown (https://chatgpt.com/c/690ff0ca-f3d0-8325-ba38-07dafb12867b)
 
 
+## 🐢 Tarea Mini-Turtle
+
+En esta actividad se desarrolló la evolución de un script simple hacia una
+solución modular y orientada a objetos en Python.
+
+### 🔹 Versión Funcional
+- Repositorio:  
+  https://github.com/camiloangulo-oss/mini_turtle
+  
+### 🔹 Versión POO
+- Repositorio:  
+  https://github.com/camiloangulo-oss/mini_turtle_oo
