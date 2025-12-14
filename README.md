@@ -67,3 +67,8 @@ solución modular y orientada a objetos en Python.
 ### 🔹 Versión POO
 - Repositorio:  
   https://github.com/camiloangulo-oss/mini_turtle_oo
+
+  ## 👩‍💻 Autor
+Camilo Angulo  
+Institución Universitaria Digital de Antioquia
+
